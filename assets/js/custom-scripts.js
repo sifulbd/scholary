@@ -166,7 +166,7 @@
      $('#mh-client-review').owlCarousel({
         loop: true,
         responsiveClass: true,
-        nav: false,
+        nav: true,
         dots: true,
         autoplay: false,
         smartSpeed: 450,
@@ -184,7 +184,7 @@
             items: 1,
           },
           1170: {
-            items: 3,
+            items: 1,
           }
         }
     });  

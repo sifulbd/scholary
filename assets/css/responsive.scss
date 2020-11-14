@@ -17,6 +17,9 @@
     .mh-feature-one .btmlftban {
         left: 3%;
     }
+    .section-separator.ct-padding {
+        padding-top: 140px;
+    }
 }
 
 @media only screen and (max-width: 1200px) {
@@ -96,6 +99,9 @@
 
     .each-shape {
         display: none;
+    }
+    .section-separator.ct-padding {
+        padding-top: 120px;
     }
 }
 @media only screen and (max-width: 991px) {
@@ -698,6 +704,47 @@
     .section-title {
         margin-bottom: 60px;
     }
+    .section-separator.ct-padding {
+        padding-top: 140px;
+    }
+    .slider-inner .sch-slide-info {
+        width: 80%;
+        padding: 10px 15px;
+        position: relative;
+    }
+    .slider-inner .sch-slide-info h2 {
+        font-size: 32px;
+        line-height: 38px;
+    }
+    .service-box {
+        margin-bottom: 20px;
+    }
+    .dt-inner {
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    .single-member-info {
+        margin-top: 20px;
+    }
+    .sh-member .each-member {
+        margin-top: 30px;
+        text-align: center;
+    }
+    footer .footer-inner p {
+        color: #fff;
+        padding: 20px 4%;
+    }
+    .footer-social {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .newsletter {
+        text-align: center;
+        width: 100%;
+    }
+    .counter {
+        margin-bottom: 30px;
+    }
 }
 @media only screen and (min-width: 992px) {
     .nb-pack {
@@ -1204,7 +1251,6 @@
     .award-item h3 {
         font-size: 34px;
     }
-
     
 }
 
